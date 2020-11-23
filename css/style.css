@@ -22,7 +22,7 @@
 	body,input,textarea,select
 	{
 		font-family: 'Roboto', sans-serif;
-		font-size: 12pt;
+		font-size: 13.5pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #777;
@@ -99,6 +99,7 @@
 	p, ul, ol, dl, table
 	{
 		margin-bottom: 1em;
+		font-size: 13.5pt;
 	}
 
 	header
